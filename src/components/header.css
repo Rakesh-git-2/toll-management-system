@@ -1,0 +1,10 @@
+.header {
+  padding: 0 10px;
+  border-bottom: 1px solid #cfcfcf;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  display: inline;
+}

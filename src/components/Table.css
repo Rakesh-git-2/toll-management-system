@@ -1,0 +1,28 @@
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+thead {
+  width: 100%;
+  background-color: #dce0e0;
+  text-align: left;
+}
+
+th {
+  font-size: small;
+  padding: 15px 10px;
+  font-weight: 600;
+  color: #5a5c5c;
+}
+
+tr {
+  border-bottom: 1px solid #dce0e0;
+}
+td {
+  font-size: small;
+  padding: 15px 10px;
+}

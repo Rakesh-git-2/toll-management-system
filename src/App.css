@@ -1,0 +1,56 @@
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  padding: "0 100px";
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.around {
+  justify-content: space-around;
+}
+
+.center {
+  text-align: center;
+}
+
+.top-spaced {
+  margin-top: 20px;
+}
+
+.search {
+  border-radius: 20px;
+  outline: none;
+  border: 2px solid #dce0e0;
+  height: 35px;
+  width: 300px;
+  margin-left: 20px;
+}
+
+.filterBox {
+  position: absolute;
+  max-height: 300px;
+  width: 200px;
+  overflow-y: auto;
+  background-color: #fff;
+  border: 1px solid #dce0e0;
+  transform: translate(5%, 60%);
+  z-index: 1000;
+  border-radius: 3px;
+}
+
+.tollBox {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px solid #dce0e0;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}

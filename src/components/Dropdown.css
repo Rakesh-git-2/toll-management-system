@@ -1,0 +1,10 @@
+select {
+  width: 100%;
+  height: 40px;
+  outline: none;
+}
+
+option {
+  font-size: 14px;
+  background-color: azure;
+}

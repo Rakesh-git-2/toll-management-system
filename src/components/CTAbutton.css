@@ -1,0 +1,10 @@
+.cta {
+  background-color: #2e7ec9;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  font-size: medium;
+  border-radius: 5px;
+  padding: 10px 10px;
+  border: none;
+}
