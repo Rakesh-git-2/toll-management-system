@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/toll-management-system/static/css/main.9830ee73.css",
-    "main.js": "/toll-management-system/static/js/main.8de09f82.js",
+    "main.js": "/toll-management-system/static/js/main.b2c105c6.js",
     "static/js/787.916007c9.chunk.js": "/toll-management-system/static/js/787.916007c9.chunk.js",
     "index.html": "/toll-management-system/index.html",
     "main.9830ee73.css.map": "/toll-management-system/static/css/main.9830ee73.css.map",
-    "main.8de09f82.js.map": "/toll-management-system/static/js/main.8de09f82.js.map",
+    "main.b2c105c6.js.map": "/toll-management-system/static/js/main.b2c105c6.js.map",
     "787.916007c9.chunk.js.map": "/toll-management-system/static/js/787.916007c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9830ee73.css",
-    "static/js/main.8de09f82.js"
+    "static/js/main.b2c105c6.js"
   ]
 }
