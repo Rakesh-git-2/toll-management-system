@@ -14,7 +14,7 @@ const Home = () => {
   const [search, setSearch] = useState("");
   const [tolls, setTolls] = useState([]);
   const [selectedTolls, setSelectedTolls] = useState([]);
-
+  console.log(records);
   useEffect(() => {
     if (localStorage.getItem("toll")) {
       setTolls(JSON.parse(localStorage.getItem("toll")).map((x) => x.name));
@@ -25,7 +25,7 @@ const Home = () => {
           return {
             vehicleType: x.vehicleType,
             vehicleNumber: x.vehicleNumber,
-            date: new Date(x.date).toLocaleString(),
+            date: x.date,
             toll: x.toll,
             tariff: x.tariff,
           };
