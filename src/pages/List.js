@@ -69,7 +69,7 @@ const List = () => {
             onClick={() => setTollStatus({ ...tollStatus, status: "ACTIVE" })}
             style={{}}
           />
-          <Link to={"/"}>
+          <Link to={"/Home"}>
             <CtaButton text="Back to vehicle logs" style={{}} />
           </Link>
         </div>
